@@ -3,10 +3,12 @@
 
 An Android RAT that written in completely C# by me (qH0sT a.k.a Sagopa K)  
 
-I will be AFK again for 1 month, don't open the issue (:  
-
 +How can I build a Client?  
 - https://www.youtube.com/watch?v=3LEegvEp8_E  (thanks to AndroTricks for this video)  
+
+Don't worry, there is no complicated ``Socket`` programming; all thing is simple to understand.  
+
+-You must also UDP port open; select item in comboBox on NAT page of Modem: TCP and UDP (both) , otherwise you can't hear live microphone.  
 
 For Keylogger your victim must toggle on Accessibility button of your trojan in Settings of Device  
 
